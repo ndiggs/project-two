@@ -15,9 +15,6 @@
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
-
-
-
     <dependencies>
         <dependency>
             <groupId>javax.servlet</groupId>
@@ -83,8 +80,5 @@
             </plugins>
         </pluginManagement>
     </build>
-
-
-
 
 </project>
